@@ -7,4 +7,4 @@ This 🔧 project leverages **Mistral AI 🤖** to analyze a rich dataset of **3
 - **⚡ Function Calling:** The AI intelligently invokes specialized functions 🛠️ to fetch relevant mutual fund insights in real time.
 - **📢 Interactive Q&A:** Users can ask investment-related questions and receive **accurate, data-driven responses instantly**.
 
-Empower your investment decisions with AI-driven intelligence! 🚀📊
+This Project helps users with their investment decisions with AI-driven intelligence! 🚀📊
